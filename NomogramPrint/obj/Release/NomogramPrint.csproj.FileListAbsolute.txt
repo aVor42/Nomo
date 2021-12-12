@@ -1,0 +1,8 @@
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.csproj.AssemblyReference.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.csproj.ResolveComReference.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.MainWindow.resources
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.Properties.Resources.resources
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.Resource1.resources
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.csproj.GenerateResource.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Release\NomogramPrint.csproj.CoreCompileInputs.cache

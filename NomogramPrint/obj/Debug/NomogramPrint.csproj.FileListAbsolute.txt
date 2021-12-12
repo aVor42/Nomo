@@ -1,0 +1,80 @@
+D:\repos\C#\NomogramPrint\NomogramPrint\bin\Debug\NomogramPrint.exe.config
+D:\repos\C#\NomogramPrint\NomogramPrint\bin\Debug\NomogramPrint.exe
+D:\repos\C#\NomogramPrint\NomogramPrint\bin\Debug\NomogramPrint.pdb
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.AssemblyReference.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.SuggestedBindingRedirects.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.Form1.resources
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.Properties.Resources.resources
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.GenerateResource.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompileInputs.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.exe
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.pdb
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.Resource1.resources
+D:\hak\Nomomake\NomogramPrint\bin\Debug\NomogramPrint.exe.config
+D:\hak\Nomomake\NomogramPrint\bin\Debug\NomogramPrint.exe
+D:\hak\Nomomake\NomogramPrint\bin\Debug\NomogramPrint.pdb
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.AssemblyReference.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.ResolveComReference.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.Form1.resources
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.Properties.Resources.resources
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.Resource1.resources
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.GenerateResource.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompileInputs.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.exe
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.pdb
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.ResolveComReference.cache
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.exe.config
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.exe
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.AssemblyReference.cache
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.ResolveComReference.cache
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.Properties.Resources.resources
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.Resource1.resources
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.GenerateResource.cache
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompileInputs.cache
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.exe
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Design.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.CopyComplete
+D:\Projects\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.MainWindow.resources
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.exe.config
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.exe
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Design.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.AssemblyReference.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.ResolveComReference.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.MainWindow.resources
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.Properties.Resources.resources
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.Resource1.resources
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.GenerateResource.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompileInputs.cache
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.csproj.CopyComplete
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.exe
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.pdb
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.exe.manifest
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\bin\Debug\NomogramPrint.application
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.exe.manifest
+D:\Новая папка\7 Семестр\Mono\Mono\Nomogram\NomogramPrint\obj\Debug\NomogramPrint.application
